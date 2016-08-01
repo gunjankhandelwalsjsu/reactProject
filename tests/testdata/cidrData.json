@@ -1,0 +1,2833 @@
+[{
+	"locale": "af",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "af_na",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "af_za",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "agq",
+	"quotationStart": "„",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "agq_cm",
+	"quotationStart": "„",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ak",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ak_gh",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "am",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "am_et",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "ar",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_001",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_ae",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_bh",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_dj",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_dz",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_eg",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_eh",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_er",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_il",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_iq",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_jo",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_km",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_kw",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_lb",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_ly",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_ma",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_mr",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_om",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_ps",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_qa",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_sa",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_sd",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_so",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_ss",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_sy",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_td",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_tn",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ar_ye",
+	"quotationStart": "”",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "as",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "as_in",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "asa",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "asa_tz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ast",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "ast_es",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "az",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "az_cyrl",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "az_cyrl_az",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "az_latn",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "az_latn_az",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bas",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "„",
+	"alternateQuotationEnd": "“"
+}, {
+	"locale": "bas_cm",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "„",
+	"alternateQuotationEnd": "“"
+}, {
+	"locale": "be",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "be_by",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "bem",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bem_zm",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bez",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bez_tz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bg",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "„",
+	"alternateQuotationEnd": "“"
+}, {
+	"locale": "bg_bg",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "„",
+	"alternateQuotationEnd": "“"
+}, {
+	"locale": "bm",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "bm_ml",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "bn",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bn_bd",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bn_in",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bo",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bo_cn",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bo_in",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "br",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "br_fr",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "brx",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "brx_in",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bs",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bs_cyrl",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "bs_cyrl_ba",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "bs_latn",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "bs_latn_ba",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ca",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "ca_ad",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "ca_es",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "ca_es_valencia",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "ca_fr",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "ca_it",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "ce",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ce_ru",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "cgg",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "cgg_ug",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "chr",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "chr_us",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ckb",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ckb_iq",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ckb_ir",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "cs",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "cs_cz",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "cu",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "„",
+	"alternateQuotationEnd": "“"
+}, {
+	"locale": "cu_ru",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "„",
+	"alternateQuotationEnd": "“"
+}, {
+	"locale": "cy",
+	"quotationStart": "‘",
+	"quotationEnd": "’",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "cy_gb",
+	"quotationStart": "‘",
+	"quotationEnd": "’",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "da",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "da_dk",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "da_gl",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "dav",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "dav_ke",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "de",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "de_at",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "de_be",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "de_ch",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "de_de",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "de_li",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "de_lu",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "dje",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "dje_ne",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "dsb",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "dsb_de",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "dua",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "dua_cm",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "dyo",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "dyo_sn",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "dz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "dz_bt",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ebu",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ebu_ke",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ee",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ee_gh",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ee_tg",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "el",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "el_cy",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "el_gr",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "en",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_001",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_150",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ag",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ai",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_as",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_at",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_au",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_bb",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_be",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_bi",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_bm",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_bs",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_bw",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_bz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ca",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_cc",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ch",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ck",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_cm",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_cx",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_cy",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_de",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_dg",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_dk",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_dm",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_er",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_fi",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_fj",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_fk",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_fm",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_gb",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_gd",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_gg",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_gh",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_gi",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_gm",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_gu",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_gy",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_hk",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ie",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_il",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_im",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_in",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_io",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_je",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_jm",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ke",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ki",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_kn",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ky",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_lc",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_lr",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ls",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_mg",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_mh",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_mo",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_mp",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ms",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_mt",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_mu",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_mw",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_my",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_na",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_nf",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ng",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_nl",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_nr",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_nu",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_nz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_pg",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ph",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_pk",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_pn",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_pr",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_pw",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_rw",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_sb",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_sc",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_sd",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_se",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_sg",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_sh",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_si",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_sl",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ss",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_sx",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_sz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_tc",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_tk",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_to",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_tt",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_tv",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_tz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ug",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_um",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_us",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_us_posix",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_vc",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_vg",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_vi",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_vu",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_ws",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_za",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_zm",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "en_zw",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "eo",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "eo_001",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "es",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_419",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_ar",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_bo",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_br",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_cl",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_co",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_cr",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_cu",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_do",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_ea",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_ec",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_es",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_gq",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_gt",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_hn",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_ic",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_mx",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_ni",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_pa",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_pe",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_ph",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_pr",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_py",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_sv",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_us",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_uy",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "es_ve",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "et",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "et_ee",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "eu",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "eu_es",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "ewo",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "ewo_cm",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "fa",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "fa_af",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "fa_ir",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "ff",
+	"quotationStart": "„",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ff_cm",
+	"quotationStart": "„",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ff_gn",
+	"quotationStart": "„",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ff_mr",
+	"quotationStart": "„",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ff_sn",
+	"quotationStart": "„",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "fi",
+	"quotationStart": "”",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "fi_fi",
+	"quotationStart": "”",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "fil",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "fil_ph",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "fo",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "fo_dk",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "fo_fo",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "fr",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_be",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_bf",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_bi",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_bj",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_bl",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_ca",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_cd",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_cf",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_cg",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_ch",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›",
+	"quotationStart": "«",
+	"quotationEnd": "»"
+}, {
+	"locale": "fr_ci",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_cm",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_dj",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_dz",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_fr",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_ga",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_gf",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_gn",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_gp",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_gq",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_ht",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_km",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_lu",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_ma",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_mc",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_mf",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_mg",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_ml",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_mq",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_mr",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_mu",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_nc",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_ne",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_pf",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_pm",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_re",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_rw",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_sc",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_sn",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_sy",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_td",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_tg",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_tn",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_vu",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_wf",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fr_yt",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "fur",
+	"quotationStart": "‘",
+	"quotationEnd": "’",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "fur_it",
+	"quotationStart": "‘",
+	"quotationEnd": "’",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "fy",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "fy_nl",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ga",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ga_ie",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "gd",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "gd_gb",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "gl",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "gl_es",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "gsw",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "gsw_ch",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "gsw_fr",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "gsw_li",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "gu",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "gu_in",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "guz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "guz_ke",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "gv",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "gv_im",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ha",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ha_gh",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ha_ne",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ha_ng",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "haw",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "haw_us",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "he",
+	"quotationStart": "”",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "he_il",
+	"quotationStart": "”",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "hi",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "hi_in",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "hr",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "hr_ba",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "hr_hr",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "hsb",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "hsb_de",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "hu",
+	"quotationStart": "„",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "»",
+	"alternateQuotationEnd": "«"
+}, {
+	"locale": "hu_hu",
+	"quotationStart": "„",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "»",
+	"alternateQuotationEnd": "«"
+}, {
+	"locale": "hy",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "hy_am",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "id",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "id_id",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ig",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ig_ng",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ii",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ii_cn",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "is",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "is_is",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "it",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "it_ch",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›",
+	"quotationStart": "«",
+	"quotationEnd": "»"
+}, {
+	"locale": "it_it",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "it_sm",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "ja",
+	"quotationStart": "「",
+	"quotationEnd": "」",
+	"alternateQuotationStart": "『",
+	"alternateQuotationEnd": "』"
+}, {
+	"locale": "ja_jp",
+	"quotationStart": "「",
+	"quotationEnd": "」",
+	"alternateQuotationStart": "『",
+	"alternateQuotationEnd": "』"
+}, {
+	"locale": "jgo",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "jgo_cm",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "jmc",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "jmc_tz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ka",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "ka_ge",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "«",
+	"alternateQuotationEnd": "»"
+}, {
+	"locale": "kab",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "kab_dz",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "kam",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "kam_ke",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "kde",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "kde_tz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "kea",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "kea_cv",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "khq",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "khq_ml",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ki",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ki_ke",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "kk",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "kk_kz",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "kkj",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "kkj_cm",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‹",
+	"alternateQuotationEnd": "›"
+}, {
+	"locale": "kl",
+	"quotationStart": "»",
+	"quotationEnd": "«",
+	"alternateQuotationStart": "›",
+	"alternateQuotationEnd": "‹"
+}, {
+	"locale": "kl_gl",
+	"quotationStart": "»",
+	"quotationEnd": "«",
+	"alternateQuotationStart": "›",
+	"alternateQuotationEnd": "‹"
+}, {
+	"locale": "kln",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "kln_ke",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "km",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "km_kh",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "kn",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "kn_in",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ko",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ko_kp",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ko_kr",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "kok",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "kok_in",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ks",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ks_in",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ksb",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ksb_tz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ksf",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ksf_cm",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ksh",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "ksh_de",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "kw",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "kw_gb",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ky",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "„",
+	"alternateQuotationEnd": "“"
+}, {
+	"locale": "ky_kg",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "„",
+	"alternateQuotationEnd": "“"
+}, {
+	"locale": "lag",
+	"quotationStart": "”",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lag_tz",
+	"quotationStart": "”",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "’",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lb",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "lb_lu",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "lg",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lg_ug",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lkt",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lkt_us",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ln",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ln_ao",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ln_cd",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ln_cf",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "ln_cg",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lo",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lo_la",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lrc",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lrc_iq",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lrc_ir",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lt",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "„",
+	"alternateQuotationEnd": "“"
+}, {
+	"locale": "lt_lt",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "„",
+	"alternateQuotationEnd": "“"
+}, {
+	"locale": "lu",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lu_cd",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "luo",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "luo_ke",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "luy",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "luy_ke",
+	"quotationStart": "„",
+	"quotationEnd": "“",
+	"alternateQuotationStart": "‚",
+	"alternateQuotationEnd": "‘"
+}, {
+	"locale": "lv",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "lv_lv",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "mas",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "mas_ke",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "mas_tz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "mer",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "mer_ke",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "mfe",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "mfe_mu",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "mg",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "mg_mg",
+	"quotationStart": "«",
+	"quotationEnd": "»",
+	"alternateQuotationStart": "“",
+	"alternateQuotationEnd": "”"
+}, {
+	"locale": "mgh",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "mgh_mz",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "mgo",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}, {
+	"locale": "mgo_cm",
+	"quotationStart": "“",
+	"quotationEnd": "”",
+	"alternateQuotationStart": "‘",
+	"alternateQuotationEnd": "’"
+}]
