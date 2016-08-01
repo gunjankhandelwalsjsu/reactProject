@@ -1,4 +1,4 @@
-# React Redux cldr Table
+# React project for cidr data
 
 [![Build Status]
 
