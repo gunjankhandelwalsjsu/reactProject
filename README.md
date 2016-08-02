@@ -1,9 +1,8 @@
 # React project for cidr data
 
-[![Build Status]
 
 
-Features:
+##Features:
 
      * [React](https://facebook.github.io/react)-[Redux](http://redux.js.org) data flow
      * Fetch properties JSON from an Cldr API and render into a table
